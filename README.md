@@ -11,7 +11,7 @@ Este projeto tem como objetivo aplicar os conhecimentos adquiridos no modulo 06 
 
 ### Acesse a pasta : agenciaApi
 <li>Altere as configurações do banco para os configurados no seu banco</li>
-<li> Atualize as dependencias e  Exeucute os comandos <b> add-migration Inicial e update-database </b> no console do Gerencidor de pacotes</li>
+<li> Atualize as dependencias utilizando o comanto: <b>dotnet restore</b> e  Exeucute os comandos <b> add-migration Inicial e update-database </b> no console do Gerencidor de pacotes</li>
 <li>Execute o Script "scriptInsercaoDados.sql" que estar dentro da pasta agenciaAPi para adicionar os dados no banco para serem exibidos no FrontEnd</li>
  
 ## 🎲 Rodando o Front End (Desenvolvida em NEXTJS):
